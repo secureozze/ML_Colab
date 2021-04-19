@@ -1,7 +1,9 @@
 # 🧠 ML_Colab
 
-# Google Drive
+### 💾 Google Drive
+소스코드가 있는 Google Drive 입니다.
 https://www.notion.so/Colab-7cabbb07831847a7a7d6eb5da109a7f5#29ab694a3a7f4e308083ac0b3220bae6
+
 
 ### 📄 Content
 
