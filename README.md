@@ -1,4 +1,4 @@
-# 🧠 ML_Colab
+# 🧠 Colab을 활용한 머신러닝
 
 ### 💾 Google Drive
 - 소스코드가 있는 Google Drive 입니다.
