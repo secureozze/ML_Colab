@@ -16,11 +16,5 @@ https://www.notion.so/Colab-7cabbb07831847a7a7d6eb5da109a7f5#29ab694a3a7f4e30808
 
 ---
 
+- Jupyter Notebook
 - Colab
-- Python
-
-### 🗨️ Opinion
-
----
-
-머신러닝을 활용하여 다양한 인사이트를 얻을 수 있는 방법에 대해 고려해보았습니다. 또한 다양한 데이터를 다루면서 데이터 정제 과정의 중요성도 알게 되었습니다.
